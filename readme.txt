@@ -23,8 +23,6 @@
 |	*external*	|	projects to be used	|	:x:			|
 |	*extras* 	|	extra submodules	|	:x:			|
 
-_\*\*\*CAPIRE COME CAZZO FUNZIONANO I SUBMODULES\*\*\*_
-
 
 prj_name(root)<br>
 >&#09500;&#09472;
